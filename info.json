@@ -1,56 +1,55 @@
 {
-  "name": "Rana Talha Hassan Khan",
-  "email": "ranatalhaa02@gmail.com",
-  "dp": "https://media-exp1.licdn.com/dms/image/C4D03AQEXEaXn-jMKtw/profile-displayphoto-shrink_800_800/0/1654537397991?e=1660176000&v=beta&t=d6Wxg2QrxPUIawR9iSyyIv5f5sltA5y8WJjMxN2zFf4",
-  "info" : "Hi....! I am a CS Student at CUI Currently a 6th Semester Student. For the Past year and a Half i have been Learning Web Development on my own nad I'm quite Fond of it and will persue it to perfection", 
-  "skils": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "React Native",
-    "NodeJS",
-    "ExpressJS",
-    "MongoDB",
-    "MySQL",
-    "PHP",
-    "Laravel",
-    "Python"
-  ],
-  "level" : [
-    "4.5",
-    "4.5",
-    "4.0",
-    "3.5",
-    "2.5",
-    "2.5",
-    "2.5",
-    "2.5",
-    "2.5",
-    "3.5",
-    "3.5",
-    "2.5"
-  ],
-  "projects": [
-    {
-      "name": "DataBase Project",
-      "description": "This is my Semester Project For DataBase Course ",
-      "link": "https://github.com/Talhart49/DB_"
-    },
-    {
-      "name": "Web Project",
-      "description": "This is my Semester Project For Web Course made using Laravel ",
-      "link": "https://github.com/Talhart49/SaloonPoint"
-    },
-    {
-      "name": "Rock Paper Sciccors",
-      "description": "This is a simple Rock Paper Sciccors Game made with HTML CSS & JavaScript",
-      "link": "https://github.com/Talhart49/Rock-Paper-Scissors"
-    },
-    {
-      "name": "Tesla Clone",
-      "description": "This is a clone of Tesla website made with React Js",
-      "link": "https://github.com/Talhart49/Tesla_Clone"
-    }
-  ]
+	"name": "Rana Talha Hassan Khan",
+	"email": "ranatalhaa02@gmail.com",
+	"dp": "https://media-exp1.licdn.com/dms/image/C4D03AQEXEaXn-jMKtw/profile-displayphoto-shrink_800_800/0/1654537397991?e=1660176000&v=beta&t=d6Wxg2QrxPUIawR9iSyyIv5f5sltA5y8WJjMxN2zFf4",
+	"info": "Hi....! I am a CS Student at CUI Currently a 6th Semester Student. For the Past year and a Half i have been Learning Web Development on my own nad I'm quite Fond of it and will persue it to perfection",
+	"skils": [
+		"HTML",
+		"CSS",
+		"JavaScript",
+		"React",
+		"React Native",
+		"NodeJS",
+		"ExpressJS",
+		"MongoDB",
+		"MySQL",
+		"PHP",
+		"Laravel",
+		"Python"
+	],
+	"level": [
+		"4.5",
+		"4.5",
+		"4.0",
+		"3.5",
+		"2.5",
+		"2.5",
+		"2.5",
+		"2.5",
+		"2.5",
+		"3.5",
+		"3.5",
+		"2.5"
+	],
+	"projects": [{
+			"name": "DataBase Project",
+			"description": "This is my Semester Project For DataBase Course ",
+			"link": "https://github.com/Talhart49/DB_"
+		},
+		{
+			"name": "Web Project",
+			"description": "This is my Semester Project For Web Course made using Laravel ",
+			"link": "https://github.com/Talhart49/SaloonPoint"
+		},
+		{
+			"name": "Rock Paper Sciccors",
+			"description": "This is a simple Rock Paper Sciccors Game made with HTML CSS & JavaScript",
+			"link": "https://github.com/Talhart49/Rock-Paper-Scissors"
+		},
+		{
+			"name": "Tesla Clone",
+			"description": "This is a clone of Tesla website made with React Js",
+			"link": "https://github.com/Talhart49/Tesla_Clone"
+		}
+	]
 }
